@@ -1,5 +1,20 @@
 # 💫 About Me:
-🛠️ I'm currently working on:<br><br>Building full-stack web applications (MERN), sharpening my DSA skills, and developing real-world projects to prepare for software engineering internships.<br><br>🤝 I'm looking to collaborate on:<br><br>Open-source contributions, startup ideas, hackathons, and scalable real-world web applications.<br><br>🆘 I'm looking for help with:<br><br>Advanced DSA, system design fundamentals, DevOps workflows, and writing clean, production-ready code.<br><br>🌱 I'm currently learning:<br><br>AI/ML, Agentic AI, DevOps, System Design, learning new Node.js frameworks, and upgrading my backend development skills alongside Full-Stack Development.<br><br>💬 Ask me about:<br><br>JavaScript, React, Node.js, SQL, DSA, Git/GitHub, building full-stack apps, and effective tech internship preparation.<br><br>⚡ Fun fact:<br><br>I solve DSA problems right after workouts — discipline is my superpower 🧠🔥
+# 💫 Hi 👋, I'm Prajjwal Tripathi  
+### A passionate Data Analyst || Full Stack Developer || Problem Solver from India  
+
+📧 Email Me 👉 **connectwithprajjwal@gmail.com**  
+_For Collaboration / Projects / Opportunities_ 😊  
+
+---
+
+- 🔭 **I’m currently working on:** Data Analytics projects, Full Stack applications, and DSA problem solving  
+- 🌱 **I’m currently learning:** Advanced Data Analytics, System Design, and Competitive Programming  
+- 👯 **I’m looking to collaborate on:** Data-driven projects, Full Stack apps, and innovative tech ideas  
+- 🤔 **I’m looking for help with:** Gaining internships, real-world project exposure, and scaling skills  
+- 💬 **Ask me about:** Python, Data Analysis, Frontend Development, and Problem Solving  
+- 📫 **How to reach me:** connectwithprajjwal@gmail.com  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I enjoy solving complex problems and building projects that create real impact 🚀 
 
 
 ## 🌐 Socials:
