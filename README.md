@@ -157,7 +157,7 @@ me = PrajjwalTripathi()
 
 <div align="center">
 
-<a href="https://github.com/prajjwal-tripathi">
+<a href="https://github.com/Prajjwaltripathi20">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
