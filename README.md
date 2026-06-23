@@ -1,47 +1,198 @@
-# 💫 About Me:
-# 💫 Hi 👋, I'm Prajjwal Tripathi  
-### A passionate Data Analyst || Full Stack Developer || Problem Solver from India  
-
-📧 Email Me 👉 **connectwithprajjwal@gmail.com**  
-_For Collaboration / Projects / Opportunities_ 😊  
-
----
-
-- 🔭 **I’m currently working on:** Data Analytics projects, Full Stack applications, and DSA problem solving  
-- 🌱 **I’m currently learning:** Advanced Data Analytics, System Design, and Competitive Programming  
-- 👯 **I’m looking to collaborate on:** Data-driven projects, Full Stack apps, and innovative tech ideas  
-- 🤔 **I’m looking for help with:** Gaining internships, real-world project exposure, and scaling skills  
-- 💬 **Ask me about:** Python, Data Analysis, Frontend Development, and Problem Solving  
-- 📫 **How to reach me:** connectwithprajjwal@gmail.com  
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I enjoy solving complex problems and building projects that create real impact 🚀 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prajjwal-tripathi-031445325/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajjwal.tripathi2024@nst.rishihood.edu.in) 
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Prajjwal%20Tripathi&fontSize=55&fontColor=c084fc&animation=fadeIn&fontAlignY=38" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;Building+Modern+Web+Applications;MongoDB+%7C+Express+%7C+Vite;Always+Learning+Something+New" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=prajjwal-tripathi&label=Profile%20Views&color=c084fc&style=for-the-badge" />
+
 </div>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prajjwaltripathi20&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Prajjwaltripathi20&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajjwaltripathi20&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prajjwaltripathi20&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+# 💫 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```python
+class PrajjwalTripathi:
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prajjwaltripathi20&limit=5&theme=dark&combine_all_yearly_contributions=true)
+    def __init__(self):
+        self.role = "Full Stack Developer"
+        self.location = "Varanasi, India 🇮🇳"
+
+        self.current_focus = [
+            "MERN Stack Applications",
+            "REST API Design",
+            "Personal Finance Tools",
+            "System Design",
+            "Backend Architecture"
+        ]
+
+        self.tech_stack = [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Vite"
+        ]
+
+        self.interests = [
+            "Scalable Systems",
+            "Web Application Design",
+            "Automation",
+            "Open Source"
+        ]
+
+    def life_philosophy(self):
+        return "Build impactful systems. Learn continuously."
+
+me = PrajjwalTripathi()
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prajjwaltripathi20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,vite,github,figma,vscode,postman&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-c084fc?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+<img src="https://img.shields.io/badge/Lucide_React-f59e0b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prajjwal-tripathi&show_icons=true&theme=tokyonight&icon_color=c084fc&title_color=c084fc" />
+
+<br/><br/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=prajjwal-tripathi&theme=tokyonight&hide_border=true&border_radius=15&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajjwal-tripathi&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=c084fc&line=c084fc&point=ffffff" />
+
+</div>
+
+---
+
+# 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/prajjwal-tripathi/dhan-raksha">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=prajjwal-tripathi&repo=dhan-raksha&theme=tokyonight&title_color=c084fc&icon_color=c084fc" />
+</a>
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,docker,aws,nextjs,postgres,figma&theme=dark" />
+
+</div>
+
+<br/>
+
+- ⚡ TypeScript & Advanced React Patterns
+- 🏗️ System Design & Scalable Architectures
+- ☁️ Cloud Deployment (AWS / Render / Vercel)
+- 🐳 Docker & Containerization
+- 🗃️ PostgreSQL & Relational Databases
+- 🔐 Advanced Authentication & Security
+- 📊 Data Visualization & Analytics
+- 🚀 Production-Grade Deployment Pipelines
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prajjwal-tripathi&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/prajjwal-tripathi">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/prajjwal-tripathi">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</div>
+
+---
+
+# 💻 Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+<div align="center">
+
+```txt
+I turn chai ☕ into full-stack web apps 🚀 — straight from Varanasi 🕌
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:24243e,50:302b63,100:0f0c29"/>
+
+</div>
