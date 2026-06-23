@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=prajjwal-tripathi&label=Profile%20Views&color=c084fc&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Prajjwaltripathi20&label=Profile%20Views&color=c084fc&style=for-the-badge" />
 
 </div>
 
@@ -82,7 +82,7 @@ me = PrajjwalTripathi()
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prajjwal-tripathi&show_icons=true&theme=tokyonight&icon_color=c084fc&title_color=c084fc" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prajjwaltripathi20&show_icons=true&theme=tokyonight&icon_color=c084fc&title_color=c084fc" />
 
 <br/><br/>
 
@@ -94,7 +94,7 @@ me = PrajjwalTripathi()
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=prajjwal-tripathi&theme=tokyonight&hide_border=true&border_radius=15&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" />
+<img src="https://streak-stats.demolab.com?user=Prajjwaltripathi20&theme=tokyonight&hide_border=true&border_radius=15&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" />
 
 </div>
 
@@ -104,7 +104,7 @@ me = PrajjwalTripathi()
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajjwal-tripathi&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=c084fc&line=c084fc&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajjwaltripathi20&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=c084fc&line=c084fc&point=ffffff" />
 
 </div>
 
@@ -114,8 +114,8 @@ me = PrajjwalTripathi()
 
 <div align="center">
 
-<a href="https://github.com/prajjwal-tripathi/dhan-raksha">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=prajjwal-tripathi&repo=dhan-raksha&theme=tokyonight&title_color=c084fc&icon_color=c084fc" />
+<a href="https://github.com/Prajjwaltripathi20/dhan-raksha">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Prajjwaltripathi20&repo=dhan-raksha&theme=tokyonight&title_color=c084fc&icon_color=c084fc" />
 </a>
 
 </div>
@@ -147,7 +147,7 @@ me = PrajjwalTripathi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prajjwal-tripathi&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Prajjwaltripathi20&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 
 </div>
 
