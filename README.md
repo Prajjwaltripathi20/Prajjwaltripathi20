@@ -161,7 +161,7 @@ me = PrajjwalTripathi()
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/prajjwal-tripathi">
+<a href="https://www.linkedin.com/in/prajjwal-tripathi-031445325/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
